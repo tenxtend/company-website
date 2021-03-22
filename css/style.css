@@ -970,8 +970,9 @@ span.quot-name:before {
 }
 
 .container-portfolio .portfolio-view h2 span {
-  font-weight: 800;
+  font-weight: 600;
   color: #fff;
+  font-size: 22px;
 }
 
 .container-portfolio .portfolio-view p {
