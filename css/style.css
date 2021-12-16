@@ -1156,7 +1156,9 @@ address span a {
 
 @media only screen and (max-width: 600px) {
   .center {
-    width: 100%;
+    width: 50%;
   }
 }
+
+
 
